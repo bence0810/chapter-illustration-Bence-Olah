@@ -56,5 +56,6 @@ p {
 	float: right;
 }
 footer {
-	display: inline;
+	clear: right;
+	text-align: center;
 }
