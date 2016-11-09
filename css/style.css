@@ -47,6 +47,14 @@ nav li {
 	
 }
 
+nav li:hover {
+background: #87ff00;
+cursor: pointer; 
+transition: background-color 1.5s;
+color: #333;
+}
+
+
 .main {
 	width: 60%;
 	margin-left: 5%;
